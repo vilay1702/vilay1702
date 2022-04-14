@@ -3,7 +3,7 @@
 ## <p><a href="https://vilay1702.github.io/portfolio/">➡️ Check out my website 🖥️</a></p>
 
 ## Connect with me 📫:
-[![Twitter Follow](https://img.shields.io/twitter/follow/vedansh_paliwal.svg?style=social)](https://twitter.com/bendevilay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vilay_bende.svg?style=social)](https://twitter.com/bendevilay)
 <a href="https://www.linkedin.com/in/vilaybende//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
 <a href="https://www.instagram.com/_vilay.b_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
