@@ -5,7 +5,6 @@
 ## Connect with me 📫:
 [![Twitter Follow](https://img.shields.io/twitter/follow/bendevilay.svg?style=social)](https://twitter.com/bendevilay)
 <a href="https://www.linkedin.com/in/vilaybende//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-
 <a href="https://www.instagram.com/_vilay.b_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <!-- <a href="https://www.facebook.com/vedansh.paliwal.5"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>  -->
 
