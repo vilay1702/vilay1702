@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 🙋🏻‍♂️
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> print(Whatsup everybody!!) 🙋🏻‍♂️
 
 ## <p><a href="https://vilay1702.github.io/portfolio/">➡️ Check out my website 🖥️</a></p>
 
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/_vilay.b_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <!-- <a href="https://www.facebook.com/vedansh.paliwal.5"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>  -->
 
-I am <a href="https://vilay1702.github.io/portfolio/">Vilay Bende</a> 😃 an undergraduate pursuing bachelor's in Computer Science who keeps on writing clean code. I am a Full Stack Web Developer, ReactJs Developer ,and Web Designer!
+I am <a href="https://vilay1702.github.io/portfolio/">Vilay Bende 👨🏻‍💻</a> an undergraduate pursuing bachelor's in Computer Science who keeps on writing clean code. I am a Full Stack Web Developer, ReactJs Developer ,and Web Designer!
 
 ## Work Experience 👔
 * Full Stack Web Developer Intern at Descrii.tech
