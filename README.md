@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> print(Whatsup everybody!!) 🙋🏻‍♂️
+# /<//(Whatsup everybody!!)/> 🙋🏻‍♂️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## <p><a href="https://vilay1702.github.io/portfolio/">➡️ Check out my website 🖥️</a></p>
 
