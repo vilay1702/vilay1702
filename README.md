@@ -14,13 +14,13 @@ I am <a href="https://vilay1702.github.io/portfolio/">Vilay Bende 👨🏻‍�
 * Full Stack Web Developer Intern at Descrii.tech
 * Software Developer Intern at MADIEE Games
 * Chapter Lead at CodeChef College Chapter
-* Web Developer, Graphic Designer at Incubation Cell, Medi-Caps University
 
 
 ## Volunteer Experience🌱
 
 
 * National Service Scheme (NSS)
+* Web Developer, Graphic Designer at Incubation Cell, Medi-Caps University
 
 
 ## Technology Stack ⚙:
