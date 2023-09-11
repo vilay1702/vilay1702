@@ -11,6 +11,7 @@
 I am <a href="https://vilay1702.github.io/portfolio/">Vilay Bende 👨🏻‍💻</a> an undergraduate pursuing bachelor's in Computer Science who keeps on writing clean code. I am a Full Stack Web Developer, ReactJs Developer ,and Web Designer!
 
 ## Work Experience 👔
+* Full Stack Web Developer Intern at Easyops
 * Full Stack Web Developer Intern at Descrii.tech
 * Software Developer Intern at MADIEE Games
 * Chapter Lead at CodeChef College Chapter
